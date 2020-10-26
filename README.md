@@ -3,5 +3,7 @@
   • Chicago
   • New York City 
   • Washington
-⁃I wrote code to import the data and answer interesting questions about it by computing descriptive statistics
+	
+⁃I wrote code to import the data and answer interesting questions about it by computing descriptive statistics.
+
 ⁃I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
